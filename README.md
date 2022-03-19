@@ -1,6 +1,6 @@
 # flutter_login
 
-A new Flutter application.
+A new Flutter application using flutter sdk version 2.10.3.
 
 ## Getting Started
 
