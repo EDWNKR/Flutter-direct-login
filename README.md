@@ -1,16 +1,16 @@
-# flutter_login
+# Flutter Direct Login
 
-A new Flutter application using flutter sdk version 2.10.3.
+A new Flutter application using flutter sdk version 2.10.3
 
-## Getting Started
+## Screenshots
+<img src="https://i.ibb.co/17FdZg7/Screen-Shot-2022-04-10-at-13-22-17.png" width="400" height="700">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 About Me
+a man behind thousand codes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Badges
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
